@@ -5,6 +5,3 @@ test test test
 new line0
 new line1
 new line line
-
-last line
-last last line

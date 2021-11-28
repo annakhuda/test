@@ -6,5 +6,5 @@ new line0
 new line1
 new line line
 
-last line
-last last line
+new line in new branch
+branch "feature"

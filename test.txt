@@ -15,4 +15,5 @@ new line
 new line in feature branch
 new line in feature branch 1
 
+for tag only
 

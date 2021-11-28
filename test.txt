@@ -8,3 +8,5 @@ new line line
 
 new line in new branch
 branch "feature"
+
+new changes

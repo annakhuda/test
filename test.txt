@@ -8,6 +8,11 @@ new line line
 
 new changes deleted
 
+
 new line
 new line
+
+new line in feature branch
+new line in feature branch 1
+
 
